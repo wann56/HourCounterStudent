@@ -1,0 +1,12 @@
+D:\REPOSITORIES\sor\HourCounterStudent\HourCounterStudent\bin\Debug\HourCounterStudent.exe.config
+D:\REPOSITORIES\sor\HourCounterStudent\HourCounterStudent\bin\Debug\HourCounterStudent.exe
+D:\REPOSITORIES\sor\HourCounterStudent\HourCounterStudent\bin\Debug\HourCounterStudent.pdb
+D:\REPOSITORIES\sor\HourCounterStudent\HourCounterStudent\obj\Debug\HourCounterStudent.csproj.AssemblyReference.cache
+D:\REPOSITORIES\sor\HourCounterStudent\HourCounterStudent\obj\Debug\HourCounterStudent.Form1.resources
+D:\REPOSITORIES\sor\HourCounterStudent\HourCounterStudent\obj\Debug\HourCounterStudent.Form2.resources
+D:\REPOSITORIES\sor\HourCounterStudent\HourCounterStudent\obj\Debug\HourCounterStudent.Properties.Resources.resources
+D:\REPOSITORIES\sor\HourCounterStudent\HourCounterStudent\obj\Debug\HourCounterStudent.csproj.GenerateResource.cache
+D:\REPOSITORIES\sor\HourCounterStudent\HourCounterStudent\obj\Debug\HourCounterStudent.csproj.CoreCompileInputs.cache
+D:\REPOSITORIES\sor\HourCounterStudent\HourCounterStudent\obj\Debug\HourCounterStudent.exe
+D:\REPOSITORIES\sor\HourCounterStudent\HourCounterStudent\obj\Debug\HourCounterStudent.pdb
+D:\REPOSITORIES\sor\HourCounterStudent\HourCounterStudent\obj\Debug\HourCounterStudent.LoginFrm.resources
